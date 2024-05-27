@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an LLM agent for DevOps tasks automation**
 
-- 🌱 I’m currently learning **LangChain, FastAPI and monitoring with Prometheus / Grafana**
+- 🌱 I’m currently learning **LangChain, FastAPI and monitoring with Prometheus / Grafana / ELK Stack**
 
 - 👯 I’m looking to collaborate on **web and LLM applications**
 
