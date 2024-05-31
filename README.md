@@ -87,6 +87,12 @@
     <a href="https://github.com/puppeteer/puppeteer" rel="noreferrer" target="_blank">
         <img alt="puppeteer" height="40" src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" width="40"/>
     </a>
+    <a href="https://nestjs.com/" rel="noreferrer" target="_blank">
+        <img alt="nestjs" height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="40"/>
+    </a>
+    <a href="https://jestjs.io" rel="noreferrer" target="_blank">
+        <img alt="jest" height="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40"/>
+    </a>
 </p>
 
 <h3 align="left">Databases:</h3>
@@ -122,14 +128,8 @@
     <a href="https://www.adobe.com/in/products/illustrator.html" rel="noreferrer" target="_blank">
         <img alt="illustrator" height="40" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/>
     </a>
-    <a href="https://jestjs.io" rel="noreferrer" target="_blank">
-        <img alt="jest" height="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40"/>
-    </a>
     <a href="https://www.linux.org/" rel="noreferrer" target="_blank">
         <img alt="linux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-    </a>
-    <a href="https://nestjs.com/" rel="noreferrer" target="_blank">
-        <img alt="nestjs" height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="40"/>
     </a>
     <a href="https://www.nginx.com" rel="noreferrer" target="_blank">
         <img alt="nginx" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
