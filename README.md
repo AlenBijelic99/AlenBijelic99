@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alen</h1>
 <h3 align="center">A passionate software developer from Switzerland</h3>
 
-- 🔭 I’m currently working on **an LLM agent for DevOps tasks automation**
+- 🔭 I’m currently learning **web framework** such as **NextJS**, **Laravel** and **Spring Boot**
 
-- 🌱 I’m currently learning **LangChain, FastAPI and monitoring with Prometheus / Grafana / ELK Stack**
+- 🌱 I’m currently exploring **LangGraph and its use cases**
 
 - 👯 I’m looking to collaborate on **web and LLM applications**
 
