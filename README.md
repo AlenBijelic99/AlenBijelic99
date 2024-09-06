@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alen</h1>
 <h3 align="center">A passionate software developer from Switzerland</h3>
 
-- 🔭 I’m currently learning **web framework** such as **NextJS**, **Laravel** and **Spring Boot**
+- 🔭 I’m currently learning **web frameworks** : **NextJS**, **Laravel** and **Spring Boot**
 
 - 🌱 I’m currently exploring **LangGraph and its use cases**
 
